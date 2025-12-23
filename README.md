@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I’m John 👋
 
-<!--
-**seniordev67/seniordev67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full Stack Engineer with 13+ years of experience building and scaling
+web applications using AWS, .NET, React, and Python.
 
-Here are some ideas to get you started:
+## Tech I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend: React, TypeScript, Angular
+- Backend: .NET / C#, Python, Node.js
+- Cloud: AWS (Lambda, EC2, S3, RDS)
+- Data: PostgreSQL, SQL Server, MongoDB
+- DevOps: Docker, Kubernetes, CI/CD
+
+## What I’ve worked on
+
+- Migrating legacy systems to cloud-based microservices
+- Building customer-facing dashboards and internal tools
+- Designing scalable APIs and backend services
+- Improving performance, reliability, and developer workflows
+
+## Selected projects
+
+- [sym_proj](https://github.com/seniordev67/sym_proj) – Backend services and system experiments
+- [pocketcal](https://github.com/seniordev67/pocketcal) – Calendar-based utility app
+- [talks](https://github.com/seniordev67/talks) – Technical notes and presentations
+- [code-wave](https://github.com/seniordev67/code-wave) – JavaScript experiments
+
+## Outside of code
+
+I enjoy learning new tools, cleaning up legacy systems,
+and keeping codebases understandable.
